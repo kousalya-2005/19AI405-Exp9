@@ -1,11 +1,11 @@
-<h1>ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
+<h2>ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h2> 
 <h3>Name: Kousalya A.   </h3>
 <h3>Register Number: 212222230068 </h3>
 <H3>Aim:</H3>
 <p>
     To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
 </p>
-<h1>Problem Description</h1>
+<h2>Problem Description</h2>
 <hr>
 <h2>Wumpus World</h2>
 <hr>
